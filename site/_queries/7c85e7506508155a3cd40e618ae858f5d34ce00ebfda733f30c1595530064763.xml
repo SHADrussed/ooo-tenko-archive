@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<rss version="2.0">
+	<channel>
+		<title>ОАО ТеплоЭнергоКомплект. Новости</title> 
+		<link>http://tenco.ru</link> 
+		<description> промышленное и энергетическое оборудование, КИПиА, газовое оборудование, электрооборудование, оборудование для котельных</description> 
+		<language>ru</language> 
+    <image>
+    <url>http://tenco.ru/logo_s.gif</url> 
+    <title>http://tenco.ru</title> 
+    <link>http://tenco.ru</link> 
+    </image>   
+		<item>
+			<title>Произведен редизайн сайта компании</title> 
+			<link>http://tenco.ru/?action=view&amp;date=01082005&amp;chapt=news&amp;num=1</link>
+      <category>Новости</category>			<description>Все работы по редизайну произведены чебоксарской интернет-компанией &amp;quot;Чебоксары.ру&amp;quot;.Новая версия сайта полностью переведена из статического режима на динамическую систему управления контентом (CMS) eProject, также разработки интернет-компанией &amp;quot;Чебоксары.ру&amp;quot;. [&lt;a href=&quot;http://tenco.ru/?action=newsline&amp;chapt=news&quot;&gt;Новости&lt;/a&gt;]</description>
+              <pubDate>Sun, 01 Aug 2005 23:59:00 +0300</pubDate>      
+			</item>		</channel>
+	</rss>

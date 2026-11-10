@@ -1,0 +1,1366 @@
+.cname {
+color : #5284b9;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 14px;
+font-weight : bold;
+margin-bottom : 5px;
+margin-top : 5px;
+}
+.hdr {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+background-color : #f7f7f7;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #616161 #616161 #616161 #616161;
+border-width : 0 0 1 0;
+}
+.rhdr {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+text-align : center;
+background-color : #f7f7f7;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #616161 #616161 #616161 #616161;
+border-width : 0 0 1 0;
+}
+.chdr {
+color : #1D578D;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+text-align : left;
+background-color : #d7e9ff;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #0038AD #0038AD #0038AD #0038AD;
+border-width : 0 0 2 0;
+}
+/* горизонтальное меню 1 */
+.hmeny1:link {
+color : #00438D;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+text-align : center;
+margin-left: 5px;
+margin-right: 5px;
+}
+.hmeny1:visited {
+color : #00438D;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+text-align : center;
+margin-left: 5px;
+margin-right: 5px;
+}
+.hmeny1:active {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+text-align : center;
+margin-left: 5px;
+margin-right: 5px;
+}
+.hmeny1:hover {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+text-align : center;
+margin-left: 5px;
+margin-right: 5px;
+}
+.hmeny {
+color : #ffffff;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+background: url(a1.gif) top left no-repeat #AEECBF;
+}
+/* активное горизонтальное меню 1 */
+.hmeny1b:link {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+text-align : center;
+margin-left: 5px;
+margin-right: 5px;
+}
+.hmeny1b:visited {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+text-align : center;
+margin-left: 5px;
+margin-right: 5px;
+}
+.hmeny1b:active {
+color : #00438D;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+text-align : center;
+margin-left: 5px;
+margin-right: 5px;
+}
+.hmeny1b:hover {
+color : #00438D;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+text-align : center;
+margin-left: 5px;
+margin-right: 5px;
+}
+.hmenyb {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+background: url(a2.gif) top left no-repeat #AEECBF;
+}
+/* горизонтальное нав. меню */
+.hmeny2:link {
+color : #99232F;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.hmeny2:visited {
+color : #99232F;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.hmeny2:active {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.hmeny2:hover {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+/* горизонтальное меню 2 */
+.hmeny2l:link {
+color : #AC3736;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.hmeny2l:visited {
+color : #AC3736;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.hmeny2l:active {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.hmeny2l:hover {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+/* активное горизонтальное меню 2 */
+.hmeny2lb:link {
+color : #0064FE;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+}
+.hmeny2lb:visited {
+color : #0064FE;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+}
+.hmeny2lb:active {
+color : #FF2404;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+}
+.hmeny2lb:hover {
+color : #FF2404;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+}
+.hmeny2b {
+color : #FF2404;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+background: url(hbg2.gif);
+}
+/* вертикальное меню */
+.vmeny:link {
+color : #00438d;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmeny:visited {
+color : #00438d;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmeny:active {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmeny:hover {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+/* активное вертикальное меню */
+.vmenyb:link {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmenyb:visited {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmenyb:active {
+color : #00438d;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmenyb:hover {
+color : #00438d;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+
+/* ячейка вертикального меню страниц */
+.vmenyc {
+border-bottom : solid #ffffff 1;
+padding-left: 5px;
+padding-right: 5px;
+background: url(a3.gif) bottom right no-repeat #ECEFF6;
+}
+/* активная ячейка вертикального меню страниц */
+.vmenycb {
+border-bottom : solid #ffffff 1;
+padding-left: 5px;
+padding-right: 5px;
+background: url(a4.gif) bottom right no-repeat #ffffff;
+}
+
+/* вертикальное меню 2 */
+.vmeny1:link {
+color : #165bb1;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+.vmeny1:visited {
+color : #165bb1;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+.vmeny1:active {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+.vmeny1:hover {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+/* активное вертикальное меню 2 */
+.vmeny1b:link {
+color : #165bb1;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+.vmeny1b:visited {
+color : #165bb1;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+.vmeny1b:active {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+.vmeny1b:hover {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+.vmeny1_ {
+background-color : #f7f7f7;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #dbdadd #dbdadd #dbdadd #dbdadd;
+border-width : 0 0 1 0;
+padding-left: 5px;
+padding-right: 5px;
+}
+/* активная ячейка вертикального меню страниц */
+.vmeny1b_ {
+background-color : #ffffff;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #e7e7e7 #e7e7e7 #e7e7e7 #e7e7e7;
+border-width : 0 0 1 0;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+/* вертикальное подменю */
+.vmeny2l:link {
+color : #AC3736;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmeny2l:visited {
+color : #AC3736;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmeny2l:active {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.vmeny2l:hover {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+/* активное вертикальное подменю */
+.vmeny2lb:link {
+color : #535886;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+}
+.vmeny2lb:visited {
+color : #535886;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+}
+.vmeny2lb:active {
+color : #878a9c;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+}
+.vmeny2lb:hover {
+color : #878a9c;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+}
+/* ячейки вертикального подменю */
+.vmeny2 {
+background-color : #ffffff;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #e7e7e7 #e7e7e7 #e7e7e7 #e7e7e7;
+border-width : 0 0 1 0;
+padding-left: 5px;
+padding-right: 5px;
+}
+.vmeny2b {
+background-color : #ffffff;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #e7e7e7 #e7e7e7 #e7e7e7 #e7e7e7;
+border-width : 0 0 1 0;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+/* общие теги */
+a:link {
+color : #165bb1;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+a:visited {
+color : #165bb1;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+a:active {
+color :#fc6404;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+a:hover {
+color : #fc6404;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+H1 {
+color : #99232F;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 16px;
+font-weight : bold;
+margin-bottom : 5px;
+margin-top : 5px;
+}
+H2 {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 14px;
+font-weight : bold;
+margin-bottom : 5px;
+margin-top : 5px;
+}
+H3 {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+margin-bottom : 5px;
+margin-top : 5px;
+}
+.tclass {
+color : #0038AD;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 16px;
+font-weight : bold;
+margin-bottom : 5px;
+margin-top : 5px;
+}
+p {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+margin-bottom : 2px;
+ padding-bottom : 2px;
+margin-top : 2px;
+ padding-top : 2px;
+}
+li {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+ul {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+margin-bottom : 3px;
+margin-top : 3px;
+margin-left : 20px;
+list-style-type : square;
+}
+.std {
+}
+.ntitle {
+color : #0038AD;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 14px;
+font-weight : bold;
+background-color : white;
+}
+/* Теги таблиц */
+td {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+}
+th {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+}
+.t1 {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+background-color : white;
+}
+.t2 {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+background-color : white;
+}
+.tb {
+color : #354973;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+background-color : white;
+}
+/* ссылки перемещения по страницам */
+a.goto:link {
+color : #165bb1;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : normal;
+}
+a.goto:visited {
+color : #165bb1;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : normal;
+}
+a.goto:active {
+color :#000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : normal;
+}
+a.goto:hover {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : normal;
+}
+.goto: {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : normal;
+}
+.phones {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 10px;
+background-color : #f7f7f7;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #ffffff #ffffff #ffffff #ffffff;
+border-width : 1 1 1 0;
+}
+/* Вопросы голосования */
+.votq {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+}
+/* Заголовок голосования */
+.vottitle {
+color : #ffffff;
+text-decoration : none;
+text-align: left;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+margin-left : 5px;
+margin-bottom : 5px;
+margin-top : 5px;
+height: 25px;
+padding-left: 5px;
+padding-right: 5px;
+background: url(./vbg1.gif) top right no-repeat #4973d1;
+}
+
+/* ответ голосования */
+.vota {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+padding-left : 7px;
+padding-right : 7px;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #f0f0f0 #f0f0f0 #f0f0f0 #f0f0f0;
+border-width : 0 0 1 0;
+background-color : #ffffff; 
+}
+.fclass {
+color :#000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+}
+
+/* ссылки голосования */
+a.vot:link {
+color : #0033ff;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+a.vot:visited {
+color : #0033ff;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+a.vot:active {
+color :#fc6404;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+a.vot:hover {
+color : #fc6404;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+
+.ctclass {
+}
+
+/* элементы форм */
+.input {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+border : #0165ff;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+background-color : white;
+border-color : #d1d1d1 #d1d1d1 #d1d1d1 #d1d1d1;
+border-width : 1 1 1 1;
+}
+/* заголовок раздела */
+.chaptname {
+color : #99232F;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 14px;
+font-weight : bold;
+margin-bottom : 2px;
+margin-top : 2px;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #efefef #efefef #efefef #efefef;
+border-width : 0 0 1 0;
+}
+/* Заголовок стр. */
+.artname {
+color : #99232F;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 16px;
+font-weight : bold;
+margin-bottom : 10px;
+margin-top : 2px;
+}
+.arttitle {
+background-color : #effde5;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #aeecbf #aeecbf #aeecbf #aeecbf;
+border-width : 0 0 1 0;
+}
+/* Верхняя дата на стр. */
+.topdate {
+color : #ef7f0f;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+margin-bottom : 0px;
+margin-top : 0px;
+}
+/* ссылка статьи в новостной ленте и на форуме */
+.artname:link {
+color : #00438d;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+margin-bottom : 2px;
+margin-top : 2px;
+}
+.artname:visited {
+color : #00438d;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+margin-bottom : 2px;
+margin-top : 2px;
+}
+.artname:active {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+margin-bottom : 2px;
+margin-top : 2px;
+}
+.artname:hover {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+margin-bottom : 2px;
+margin-top : 2px;
+}
+/* дата статьи в новостной ленте */
+.titledate {
+color : #fc6404;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+margin-bottom : 2px;
+margin-top : 2px;
+}
+/* ссылка и текст копирайта */
+.cprt {
+color : #a6b3ce;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : bold;
+margin-bottom : 0px;
+margin-top : 0px;
+}
+.cprt:link {
+color : #a6b3ce;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : bold;
+margin-bottom : 0px;
+margin-top : 0px;
+}
+.cprt:visited {
+color : #a6b3ce;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : bold;
+margin-bottom : 0px;
+margin-top : 0px;
+}
+.cprt:active {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : bold;
+margin-bottom : 0px;
+margin-top : 0px;
+}
+.cprt:hover {
+color : #000000;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 10px;
+font-weight : bold;
+margin-bottom : 0px;
+margin-top : 0px;
+}
+.prview {
+background-color : white;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #F2F2F7 #F2F2F7 #F2F2F7 #F2F2F7;
+border-width : 0 0 1 0;
+}
+
+.ftitle {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+background-color : #f2f2f2;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #aeecbf #aeecbf #aeecbf #aeecbf;
+border-width : 0 0 1 0;
+}
+/* Ячейки списка форумов */
+.bbsmsg {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+background-color : white;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #dbdadd #dbdadd #dbdadd #dbdadd;
+border-width : 0 0 1 0;
+}
+.bbsmsg1 {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #ffffff #f1f1f1 #dbdadd #ffffff;
+border-width : 1 1 1 1;
+background: url(/mbg2.gif) bottom left no-repeat #f9f9f9;
+
+}
+.bbsmsghdr {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+background-color : #f7f7f7;
+}
+.mtitle {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+background-color : #f2f2f2;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #aeecbf #aeecbf #aeecbf #aeecbf;
+border-width : 0 0 1 0;
+}
+/* заголовок архива */
+.nt {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+margin-bottom : 0px;
+margin-top : 0px;
+background-color : #eceff6;
+}
+/* строки архива */
+.nl {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+margin-bottom : 0px;
+margin-top : 0px;
+background-color : #f7f7f7;
+}
+.mf {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+background-color : white;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #f2f5f5 #f2f5f5 #f2f5f5 #f2f5f5;
+border-width : 1 1 1 1;
+}
+.mu {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+background-color : white;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #f2f5f5 #f2f5f5 #f2f5f5 #f2f5f5;
+border-width : 0 0 1 0;
+}
+.ma {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+background-color : white;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #f2f5f5 #f2f5f5 #f2f5f5 #f2f5f5;
+border-width : 0 0 1 0;
+}
+.rtitle {
+color : #354973;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+text-align : left;
+background-color : #e3f4e3;
+}
+.rbody {
+color : #1D578D;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+text-align : center;
+background-color : #e3f4e3;
+}
+.rurl1 {
+color : #1D578D;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+text-align : right;
+background-color : #e3f4e3;
+}
+.rurl:link {
+color : #0033ff;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.rurl:visited {
+color : #0033ff;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.rurl:active {
+color : #fc6404;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+.rurl:hover {
+color : #fc6404;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+}
+/* Заголовок календаря */
+.caltitle {
+color : #ffffff;
+text-decoration : none;
+text-align: left;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+margin-left : 5px;
+margin-bottom : 5px;
+margin-top : 5px;
+height: 23px;
+background: url(hb1.gif) top left no-repeat #A5B3CE;
+}
+/* Месяц календаря */
+.calmonth {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+margin-bottom : 5px;
+margin-top : 5px;
+background-color : #ffffff;
+}
+/* Дни недели календаря */
+.caldw {
+color : 000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+margin-bottom : 5px;
+margin-top : 5px;
+background-color : #aeecbf;
+text-align: center;
+}
+/* Дни календаря */
+.caldays {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+margin-bottom : 5px;
+margin-top : 5px;
+text-align: center;
+background-color : #ffffff;
+}
+/* Текущий день календаря */
+.calday1 {
+color : #fc9802;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+margin-bottom : 5px;
+margin-top : 5px;
+text-align: center;
+}
+.tmform {
+color : #2987D8;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : normal;
+border : #9AC3E7;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+background-color : #549BD3;
+border-color : #9AC3E7 #9AC3E7 #9AC3E7 #9AC3E7;
+border-width : 1 1 1 1;
+}
+/* Строка продукта в каталоге */
+.prod1 {
+color : #354973;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 13px;
+font-weight : bold;
+background-color : #dbdadd;
+}
+/* ссылка на инф. продукта */
+.prod1:link {
+color : #0060cf;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+}
+.prod1:visited {
+color : #0060cf;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+}
+.prod1:active {
+color : #0000ff;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+}
+.prod1:hover {
+color : #0000ff;
+text-decoration : underline;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+}
+/* ячейки таблицы каталога */
+.ptd {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+background-color : white;
+}
+.ptb {
+color : #525781;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+background-color : white;
+}
+/* ячейки таблицы каталога */
+.ptd {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+background-color : white;
+}
+.ptbl1 {
+background-color : #808080;
+}
+
+.userinfo {
+background-color : #ffffff;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #f7f7f7 #f7f7f7 #f7f7f7 #f7f7f7;
+border-width : 0 0 1 0;
+padding-left: 5px;
+padding-right: 5px;
+}
+.newsblok {
+color : black;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : bold;
+background-color : #f7f7f7;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #dbdadd #dbdadd #dbdadd #dbdadd;
+border-width : 0 0 0 1;
+}
+/* Заголовки новостей в мини-ленте */
+.nlhdr {
+color : #000000;
+text-decoration : none;
+font-family : Arial, sans-serif;
+font-size : 11px;
+font-weight : normal;
+background-color : #ffffff;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #efefef #efefef #efefef #efefef;
+border-width : 0 0 1 0;
+padding-left: 5px;
+padding-top: 3px;
+padding-bottom: 3px;
+padding-right: 5px;
+}
+
+/* Заголовок вертикального меню подразделов*/
+
+.vmenyhdr {
+color : #ffffff;
+text-decoration : none;
+text-align: left;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+margin-left : 5px;
+margin-bottom : 5px;
+margin-top : 5px;
+height: 23px;
+background: url(hb1.gif) top left no-repeat #A5B3CE;
+}
+
+.nvmenyhdr {
+color : #000000;
+text-decoration : none;
+text-align: left;
+font-family : Arial, sans-serif;
+font-size : 12px;
+font-weight : bold;
+margin-left : 5px;
+margin-bottom : 5px;
+margin-top : 5px;
+height: 23px;
+padding-left: 5px;
+padding-right: 5px;
+background: url() top right no-repeat #AEECBF;
+}
+
+.newsgoto {
+background-color : #ffffff;
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #ff2404 #ff2404 #ff2404 #ff2404;
+border-width : 0 0 1 0;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+.dropmeny {
+border-bottom : solid;
+border-top : solid;
+border-left : solid;
+border-right : solid;
+border-color : #EFEFEF #EFEFEF #EFEFEF #EFEFEF;
+border-width : 0 0 1 0;
+padding-left: 0px;
+padding-right: 3px;
+}
+
+#voting {
+background-color : #ffffff;
+border: 1px solid #ffdc82;
+padding-left: 0x;
+padding-right: 0px;
+width: 190px;
+padding-top: 0px;
+margin-left: 7px;
+}
+
+#newsblok {
+background-color : #ffffff;
+border: 1px solid #CBF3D6;
+padding-left: 0px;
+padding-right: 0px;
+width: 190px;
+margin-left: 7px;
+margin-bottom: 7px;
+}

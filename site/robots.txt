@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /news # раздел новости
+Disallow: /products/09082006/page1.htm # список технических описаний
+Disallow: /products/13092005/page1.htm # опросные листы - оглавление
+Disallow: /products/30062008/page1.htm # таблица соотношений единиц измерений
+Disallow: /products/25072008/page1.htm # оборудование для производства кирпича
+Disallow: /products/10112008/page1.htm # оборудование для хлебзаводов
+Disallow: /contacts/28042020/page1.htm # ошибка 
+Disallow: /avtor/10032011/page1.htm # ошибка
+Disallow: /avtor/12032019/page1.htm  # ошибка
+Disallow: /ksum2p/ # ошибка
+Disallow: /products/11122008/page1.htm # ошибка
+Disallow: /avtor/12032019/page1.htm # ошибка
+Disallow: /prices/26102005/page1.htm # ошибка
+Disallow: /?* # служебные страницы
+Disallow: /otziv/ # пустой раздел
+Disallow: /archive/news/ # пустой раздел
+Disallow: /guestb/ # пустая страница
+Disallow: /pribor/02082006/page10.htm # пустая страница
+Disallow: /products/02082005/page11.htm # пустая страница
+Disallow: /cgi-bin/cms.cgi?action=rss #
+Sitemap: http://www.tenco.ru/sitemap.xml
+Host: www.tenco.ru 
+
+				
