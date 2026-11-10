@@ -15,7 +15,7 @@ python3 -m http.server 8000 --directory dist
 
 ## Публикация
 
-GitHub Actions выполняет `.github/workflows/pages.yml` при обновлении ветки `main`: он собирает `dist` и публикует результат в GitHub Pages. В настройках Pages источником выбран GitHub Actions.
+GitHub Actions выполняет `.github/workflows/pages.yml` при обновлении ветки `main`: он собирает `dist` и публикует результат в GitHub Pages. После создания репозитория в настройках **Settings → Pages → Build and deployment → Source** нужно выбрать **GitHub Actions**.
 
 ## Ограничения и устройство
 
